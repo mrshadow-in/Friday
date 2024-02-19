@@ -1,0 +1,13 @@
+googletrans==4.0.0-rc1
+SpeechRecognition
+speech_recognition
+pyaudio
+portaudio
+pyttsx3
+portaudio
+selenium
+supyr-struct
+numpy
+python-math
+openai
+python-dotenv
